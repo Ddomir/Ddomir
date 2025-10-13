@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Dominic 👋
 
-<!--
-**Ddomir/Ddomir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fullstack web-developer based out of Chicago. I am currently studying Computer Science as a Junior at the University of Chicago at Illinois (UIC).
 
-Here are some ideas to get you started:
+Some technologies I use include: React (TS), Tailwind CSS, Vite, Node.js (Express), Drizzle, MySQL, Laravel, Astro, and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find readups on some of the repositories and more at my personal website: [irla.dev](https://irla.dev).
+
+Here are some things I am currently doing:
+- Studying SWE @ UIC
+- Creating Automated Drone Techonology at the [Engineering Design Team of Chicago (EDT)](https://chicagoedt.org/)
+- Developing dashboards for Chicago's largest hackathon, [Sparkhacks](https://sparkhacks-2025.devpost.com/)
+- Leading and teaching students about web development at the [Association of Computing Machinery (ACM)](acm-uic.github.io)
+- Creating web solutions for office staff at [UIC's College of Engineering](https://engineering.uic.edu/)
