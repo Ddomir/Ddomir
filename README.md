@@ -11,3 +11,5 @@ Here are some things I am currently doing:
 - Developing dashboards for Chicago's largest hackathon, [Sparkhacks](https://sparkhacks-2025.devpost.com/)
 - Leading and teaching students about web development at the [Association of Computing Machinery (ACM)](acm-uic.github.io)
 - Creating web solutions for office staff at [UIC's College of Engineering](https://engineering.uic.edu/)
+
+I will also be a Bytedance Frontend Intern 2026!
